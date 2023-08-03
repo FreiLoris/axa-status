@@ -1,0 +1,12 @@
+
+.status {
+  width: fit-content;
+  border: gray solid medium;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+  svg {
+    margin-right: 5px;
+  }
+}
