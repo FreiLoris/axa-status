@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/axa-status/static/css/main.92d6dd37.css",
+    "main.js": "/axa-status/static/js/main.fec9e6f2.js",
+    "static/js/787.0910cc0a.chunk.js": "/axa-status/static/js/787.0910cc0a.chunk.js",
+    "index.html": "/axa-status/index.html",
+    "main.92d6dd37.css.map": "/axa-status/static/css/main.92d6dd37.css.map",
+    "main.fec9e6f2.js.map": "/axa-status/static/js/main.fec9e6f2.js.map",
+    "787.0910cc0a.chunk.js.map": "/axa-status/static/js/787.0910cc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92d6dd37.css",
+    "static/js/main.fec9e6f2.js"
+  ]
+}
